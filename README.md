@@ -148,7 +148,7 @@ All issues were resolved successfully.
 
 GitHub Repository:
 
-()
+(https://github.com/TanmayTanpure19/AWS-DevOps-Intern-Assignment.git)
 
 ---
 
